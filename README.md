@@ -22,6 +22,9 @@ https://www.funcx.org
 https://colmena.readthedocs.io/en/latest/
 
 ## Moment
-https://moment.materialsdatafacility.org
+Prototype: https://moment.materialsdatafacility.org
+
+GitHub Project: https://github.com/orgs/Garden-CSSI/projects/1
+Public GitHub Repo: https://github.com/Garden-CSSI/moment
 
 
