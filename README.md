@@ -1,1 +1,27 @@
-# scipy
+# Blaiszik - SciPy 2022 Keynote Links and Information
+
+## Zoom Meeting Room
+TBD
+
+* July 13th 9-5p CT
+* July 14th 9-5p CT
+* Or schedule a time by contacting on Twitter (@BenBlaiszik) or via email
+
+## Materials Data Facility
+https://www.materialsdatafacility.org
+
+https://github.com/materials-data-facility
+
+## Foundry
+https://github.com/MLMI2-CSSI/foundry
+
+## FuncX
+https://www.funcx.org
+
+## Colmena
+https://colmena.readthedocs.io/en/latest/
+
+## Moment
+https://moment.materialsdatafacility.org
+
+
