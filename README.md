@@ -5,7 +5,7 @@ TBD
 
 * July 13th 9-5p CT
 * July 14th 9-5p CT
-* Or schedule a time by contacting on Twitter (@BenBlaiszik) or via email
+* Or schedule a time by contacting on Twitter (@BenBlaiszik) or via email (blaiszik@uchicago.edu)
 
 ## Materials Data Facility
 https://www.materialsdatafacility.org
