@@ -7,7 +7,9 @@ Ben Blaiszik (DSL) (blaiszik@uchicago.edu), Aristana Scourtas, KJ Schmidt, Marcu
 
 ##  💻 Zoom Meeting Room
 https://uchicago.zoom.us/j/95671395883
+
 Meeting ID: 956 7139 5883
+
 Passcode: 146143
 
 * July 13th 9-5p CT
