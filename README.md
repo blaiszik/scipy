@@ -17,14 +17,20 @@ https://www.materialsdatafacility.org
 
 https://github.com/materials-data-facility
 
+Papers: https://doi.org/10.1557/mrc.2019.118 (https://arxiv.org/pdf/1904.10423)
+
 ## ⛏️ Foundry
 https://github.com/MLMI2-CSSI/foundry
 
 ## ❎ FuncX
 https://www.funcx.org
 
+Papers: https://doi.org/10.1145/3369583.3392683 (https://dl.acm.org/doi/pdf/10.1145/3369583.3392683)
+
 ## 🐝 Colmena
 https://colmena.readthedocs.io/en/latest/
+
+Papers: https://doi.org/10.1109/MLHPC54614.2021.00007 
 
 ## 🧑‍🎓🧑‍🔬 Moment
 Prototype: https://moment.materialsdatafacility.org
