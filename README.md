@@ -12,9 +12,9 @@ Meeting ID: 956 7139 5883
 
 Passcode: 146143
 
-* July 13th 10a - 5p CT
-* July 14th 9a - 5p CT
-* Or schedule a time by contacting on Twitter (@BenBlaiszik) or via email (blaiszik@uchicago.edu)
+* July 13th 10a - 3p CT
+* July 14th 9a - 5p CT (by request)
+* Please schedule a time by contacting on Twitter (@BenBlaiszik) or via email (blaiszik@uchicago.edu)
 
 ## 🤖 Materials Data Facility
 https://www.materialsdatafacility.org
